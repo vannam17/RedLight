@@ -1,0 +1,5 @@
+opencv-python
+ultralytics==8.0.20
+roboflow
+numpy
+cvzone

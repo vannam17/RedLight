@@ -1,0 +1,14 @@
+names:
+- green
+- red
+- yellow
+nc: 3
+roboflow:
+  license: CC BY 4.0
+  project: traffic-light-nugkt-sax7i
+  url: https://universe.roboflow.com/truongan/traffic-light-nugkt-sax7i/dataset/3
+  version: 3
+  workspace: truongan
+test: ../test/images
+train: ../train/images
+val: ../valid/images
